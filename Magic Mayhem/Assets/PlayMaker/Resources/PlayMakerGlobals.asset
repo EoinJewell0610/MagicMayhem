@@ -34,3 +34,4 @@ MonoBehaviour:
   events:
   - switch first
   - switch third
+  - interactEvent
